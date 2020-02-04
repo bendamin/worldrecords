@@ -235,7 +235,7 @@
    "category": "Sport",
    "subcategory": "Olympics Men's Outdoor",
    "title": "Javelin Throw",
-   "desc": "Jan ?ELEZNí 98.48m CZE 25 MAY 1996",
+   "desc": "Jan ZELEZNY 98.48m CZE 25 MAY 1996",
    "code": "iaaf.org",
    "FIELD6": ""
  },
@@ -331,7 +331,7 @@
    "category": "Sport",
    "subcategory": "Olympics Women's Outdoor",
    "title": "800m",
-   "desc": "Jarmila KRATOCHVÖLOVµ 1:53.28m TCH 26 JUL 1983",
+   "desc": "Jarmila KRATOCHVOLOVµ 1:53.28m TCH 26 JUL 1983",
    "code": "iaaf.org",
    "FIELD6": ""
  },
@@ -531,7 +531,7 @@
    "category": "Sport",
    "subcategory": "Olympics Women's Outdoor",
    "title": "Hammer Throw",
-   "desc": "Anita W?ODARCZYK 82.98metPOL 28 AUG 2016",
+   "desc": "Anita WLODARCZYK 82.98metPOL 28 AUG 2016",
    "code": "iaaf.org",
    "FIELD6": ""
  },
@@ -539,7 +539,7 @@
    "category": "Sport",
    "subcategory": "Olympics Women's Outdoor",
    "title": "Javelin Throw",
-   "desc": "Barbora ?POTµKOVµ 72.28met CZE 13 SEP 2008",
+   "desc": "Barbora SPOTAKOVA 72.28met CZE 13 SEP 2008",
    "code": "iaaf.org",
    "FIELD6": ""
  },
@@ -547,7 +547,7 @@
    "category": "Sport",
    "subcategory": "Olympics Women's Outdoor",
    "title": "Decathlon",
-   "desc": "Austra SKUJYT 8358pts LTU 15 APR 2005",
+   "desc": "Austra SKUJYTE 8358pts LTU 15 APR 2005",
    "code": "iaaf.org",
    "FIELD6": ""
  },
@@ -706,7 +706,7 @@
  {
    "category": "Sport",
    "subcategory": "Frisbee",
-   "title": "ndoor distance men",
+   "title": "indoor distance men",
    "desc": "143.56 Dan Berman (USA) 12/10/2005 USN Aircraft Carrier JFK, USA",
    "code": "wfdf.org",
    "FIELD6": ""
@@ -715,7 +715,7 @@
    "category": "Sport",
    "subcategory": "Frisbee",
    "title": "indoor distance women ",
-   "desc": "96.27 Chris OïCleary (USA) 07/27/1991 Toronto, CAN",
+   "desc": "96.27 Chris OiCleary (USA) 07/27/1991 Toronto, CAN",
    "code": "wfdf.org",
    "FIELD6": ""
  },
@@ -723,9 +723,9 @@
    "category": "Sport",
    "subcategory": "Frisbee",
    "title": "Gridiron Mini Field Goal Distance one category",
-   "desc": "64m Kurt Karlsson (SWE) 11/09/1996 Malm”, SWE",
-   "code": "wfdf.org",
-   "FIELD6": ""
+   "desc": "64m Kurt Karlsson (SWE) 11/09/1996 Malm",
+   "code": " SWE\"",
+   "FIELD6": "wfdf.org"
  },
  {
    "category": "Sport",
@@ -739,15 +739,15 @@
    "category": "Sport",
    "subcategory": "Frisbee",
    "title": "Indoor Upside Down Distance one category",
-   "desc": "93.7 Erno V„yrynen (FIN) 03/02/2005 Oulu, FIN",
-   "code": "wfdf.org",
-   "FIELD6": ""
+   "desc": "93.7 Erno V",
+   "code": " FIN\"",
+   "FIELD6": "wfdf.org"
  },
  {
    "category": "Sport",
    "subcategory": "Frisbee",
    "title": "indoor roller distance ",
-   "desc": "147.06 S›ren Larsen (DEN) 12/27/2002 Valby, DEN",
+   "desc": "147.06 S>ren Larsen (DEN) 12/27/2002 Valby, DEN",
    "code": "wfdf.org",
    "FIELD6": ""
  },
@@ -763,9 +763,9 @@
    "category": "Sport",
    "subcategory": "Frisbee",
    "title": "Foot Throw Distance women",
-   "desc": "21.7`Rhode ™stling (SWE) 11/01/1997 Malm”, SWE",
-   "code": "wfdf.org",
-   "FIELD6": ""
+   "desc": "21.7'Rhode Ostling (SWE) 11/01/1997 Malm",
+   "code": " SWE\"",
+   "FIELD6": "wfdf.org"
  },
  {
    "category": "Sport",
@@ -1139,7 +1139,7 @@
    "category": "Gaming",
    "subcategory": "Fortnite",
    "title": "mobile kills squad",
-   "desc": "46 WiFi (15), Bon‚zYT (14), Not ?ues (11), J x 7 (6) 10/10/18",
+   "desc": "46 WiFi (15), Bon'zYT (14), Not ?ues (11), J x 7 (6) 10/10/18",
    "code": "https://www.dexerto.com",
    "FIELD6": ""
  },
